@@ -1,0 +1,119 @@
+.targeting-lang{
+    float: right;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+}
+
+.targeting-lang span{
+    font-size: 13px;
+    font-weight: 700;
+    color: #32255e;
+    text-transform: uppercase;
+    align-self: flex-end;
+}
+
+.targeting-1{
+    height: 25rem;
+}
+
+.targeting-2{
+    padding-bottom: 3rem;
+    margin-left: 10px;
+}
+
+.lang-selector{
+   margin-top: .5rem;
+}
+
+.geoList{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1.5rem;
+}
+
+.geoList button{
+    font-size: 13px;
+    border-radius: 20px;
+    padding: 0 15px;
+    font-weight: 500;
+    padding-bottom: 5px;
+    border: 2px solid rgb(213, 212, 212);
+}
+
+.geoList-Dropdown{
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #32255e;
+    background-color: #F7F7F7;
+    margin-left: 1rem;
+    margin-top: -.5rem;
+}
+
+
+.lang-list{
+    font-size: 14px;
+    color: rgb(113, 111, 111);
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2rem;
+    padding: 0 22px;
+    padding-bottom: 1rem;
+    border-bottom: 2px solid rgb(213, 212, 212);
+}
+
+.remove-all{
+    cursor: pointer;
+}
+
+.no-lang{
+    margin-top: 5px;
+    background-color: white;
+    padding: 5px 22px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.List-items{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5px;
+    background-color: white;
+    padding: 5px 22px;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.close-icon{
+    font-size: 20px;
+    color: gray;
+    cursor: pointer;
+}
+
+.img-holder{
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+}
+
+.img-holder img{
+    height: 30vh;
+}
+
+
+.chips-col{
+    margin-left: 1rem;
+    margin-top: .5rem;
+    margin-bottom: 2rem;
+}
+
+.chips{
+    color: black;
+    padding: 7px 14px;
+    background-color: #F7F7F7 !important;
+    border: 2px solid rgba(196, 193, 193, 0.958);
+    margin-right: 6px;
+}

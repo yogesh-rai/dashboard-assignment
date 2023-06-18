@@ -1,0 +1,18 @@
+.numbers{
+    color: white;
+    font-weight: 600;
+    font-size: 17px;
+    background-color: #33225e;
+    text-align: center;
+    padding: 2px 0;
+    width: 2rem;
+    border-radius: 50%;
+}
+
+.bar{
+    background-color: #33225e;
+    position: absolute;
+    width: 2px;
+    margin-left: 1rem;
+    margin-top: .5rem;
+}

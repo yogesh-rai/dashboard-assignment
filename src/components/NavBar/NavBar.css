@@ -1,0 +1,94 @@
+.main-nav{
+    box-shadow: 0px 1px 7px darkgrey;
+}
+
+.logo{
+    margin-left: 2rem;
+}
+
+.logo span{
+    color: #32255e;
+    font-weight: 600;
+    letter-spacing: 3px;
+}
+
+.nav-menu{
+    margin-left: 1rem;
+}
+
+.navOptions{
+    text-transform: uppercase;
+    font-size: 13px;
+    font-weight: 500 !important;
+}
+
+.nav-options span
+{
+    margin-left: 1rem;
+    font-size: 13px;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: #32255e;
+}
+
+.user-section{
+    margin-right: 2rem;
+    display: flex;
+}
+
+.icons{
+    font-size: 24px;
+    margin-left: 10px;
+    color: #32255e;
+}
+
+.icons span{
+    font-size: 13px;
+    vertical-align: middle;
+    margin-left: 3px;
+    font-weight: 500;
+}
+
+.USD{
+    padding-right: 7px;
+    border-right: 2px solid #32255e;
+}
+
+.User span{
+    color: #32255e;
+    font-size: 13px;
+    font-weight: 600;
+}
+
+.User{
+    margin-left: 3rem;
+    margin-right: 2rem;
+}
+
+.linkopt{
+    text-decoration: none;
+    color: rgba(15, 14, 14, 0.974);
+}
+
+.linkopt:hover,
+.linkopt:active{
+    color: rgba(15, 14, 14, 0.974);
+}
+
+.accountOptions{
+    font-size: 14px;
+    margin-top: 5px;
+}
+
+.userIcons{
+    font-weight: 600;
+    font-size: 22px;
+    margin-right: 9px;
+}
+
+.plane{
+    border-top: 2px solid rgb(213, 212, 212);
+    border-bottom: 2px solid rgb(213, 212, 212);
+    padding-top: 8px;
+    padding-bottom: 8px;
+}

@@ -1,0 +1,16 @@
+.Channels h4{
+    font-size: 24px;
+    color: #32255e;
+    margin-bottom: 1rem;
+}
+
+.checkbox_options{
+    display: flex;
+}
+
+.text-muted-channels{
+    font-size: 13px;
+    display: block;
+    margin-top: 10px;
+    color: rgb(139, 137, 137);
+}

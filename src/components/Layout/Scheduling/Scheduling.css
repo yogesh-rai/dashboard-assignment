@@ -1,0 +1,16 @@
+.card{
+    border: 2px solid rgb(213, 212, 212);
+    padding-top: 2rem;
+    padding-bottom: 1.5rem; 
+    margin-bottom: 2rem;
+}
+
+.labels{
+    font-weight: 700;
+    font-size: 14px;
+}
+
+.date{
+    height: 2.15rem;
+    width: 22vw;
+}

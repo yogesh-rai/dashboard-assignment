@@ -1,0 +1,23 @@
+.card{
+    border: 2px solid rgb(213, 212, 212);
+    padding-top: 2rem;
+    padding-bottom: 1.5rem; 
+    margin-bottom: 2rem;
+}
+
+.labels{
+    font-weight: 700;
+    font-size: 14px;
+}
+
+.checkBox{
+    font-size: 13px;
+    font-weight: 600;
+}
+
+.text-muted{
+    font-size: 13px;
+    display: block;
+    margin-top: -3px;
+    color: rgb(139, 137, 137);
+}

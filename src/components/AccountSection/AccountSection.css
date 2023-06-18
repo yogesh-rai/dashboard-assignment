@@ -1,0 +1,12 @@
+.account-section{
+    color: rgb(136, 134, 134);
+    background-color: rgba(250, 248, 248, 0.958);
+    height: 7vh;
+    border-bottom: 2px solid rgb(233, 233, 233);
+    padding-top: 7px;
+}
+
+.account-section span{
+    margin-left: 1rem;
+    font-size: 14px;
+}

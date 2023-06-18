@@ -1,0 +1,28 @@
+.gridContainer{
+    display: grid;
+    grid-template-rows: repeat(8, 1fr);
+    border: 1px solid rgb(213, 212, 212);
+    height: 40.5vh;
+}
+
+.parent-grid{
+    background-color: #F7F7F7;
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    
+}
+
+.parent-grid div{
+    border: 1px solid rgb(213, 212, 212);
+}
+
+.dayChart{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    border: none !important;
+}
+
+.days-time-name{
+    font-weight: 500;
+    padding-left: 2px;
+}
